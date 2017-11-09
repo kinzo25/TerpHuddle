@@ -9,3 +9,5 @@ The website should deliver the following:
   -User registration (form)
   -Signing up for an event (form)
   -Creating an event (form)
+
+Future work and challenges will be added in another document.
