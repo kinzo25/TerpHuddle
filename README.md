@@ -21,7 +21,10 @@ Future work and challenges will be added in another document.
 
 It will be easier for the entire team if we used keywords like the following to highlight commits:
 
- -issue
- -fixed
- -resolved
- -added
+	-issue
+	
+	-fixed
+	
+	-resolved
+	
+	-added
