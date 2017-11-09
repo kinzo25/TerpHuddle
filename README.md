@@ -3,18 +3,18 @@ Terp Huddle is an online platform that connects people who want to do the same a
 
 The website should deliver the following:
 
-  -Front page which displays categories
+ 	-Front page which displays categories
   
-  -Secondary page which lists all events under a particular category
+ 	-Secondary page which lists all events under a particular category
   
-  -An events detail page
+ 	-An events detail page
   
-  -User login (form)
+ 	-User login (form)
   
-  -User registration (form)
+ 	-User registration (form)
   
-  -Signing up for an event (form)
+ 	-Signing up for an event (form)
   
-  -Creating an event (form)
+ 	-Creating an event (form)
 
 Future work and challenges will be added in another document.
