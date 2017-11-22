@@ -1,6 +1,9 @@
 The following can be considered for future versions of the website.
 
   1.Registration
+    - Login sessions
+    - If logged in user id matches id of event organizer, they have more permissions like edit, cancel, view contact info of participants
   2.Cancellation
   3.Event images
-  
+  4. Calendar of Events
+  5. Google Places Javascript library to autocomplete and standardize event addresses, and display them on a map
