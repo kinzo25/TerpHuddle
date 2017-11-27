@@ -7,3 +7,9 @@ The following can be considered for future versions of the website.
   3.Event images
   4. Calendar of Events
   5. Google Places Javascript library to autocomplete and standardize event addresses, and display them on a map
+  6. Events that are past their registration deadline will no longer appear in the list.
+  - possible could do this now. in eventlist.php, this line:
+      $query2 = "SELECT * FROM event WHERE type_id = '$cat_id' ORDER BY date,title";
+       can we add AND registration_deadline >= CURDATE();
+       (curdate wont work with datetime, but registration deadline is just a date field)
+  
