@@ -1,3 +1,7 @@
+ b) Lessons learned (2 points). Write a short report (again, a few pages) on what you had to do to make it all work,
+ any changes required of the design and/or database as you completed the implementation, major issues encountered and
+ any great ideas you had.
+
 Please add your challenges here. Prefix with your username, so we can sort it out easily. 
 
 Also note the status of the challenge (resolved, ongoing). 
@@ -5,3 +9,18 @@ Also note the status of the challenge (resolved, ongoing).
 1. Event creation form (RESOLVED)
 
 2. Passing variables through href (RESOLVED)
+
+Format
+
+Sketch out our idea; brainstorming
+Many ideas were thrown out, including advanced functionality like allowing companies to post events as a way to advertise their services.
+We sorted all these ideas into Core, Mid-Range, and Advanced functionalities. Core were those that we felt were
+critical to the mission and success of our platform - a home page with event categories, a list of current events per categories, an easy
+to use "join" function for a user to sign up for an event, and the ability to view who else is signed up for the event.
+The others were slated for later work if time allowed. Some we were ultimately able
+to implement, such as a color-coded progress bar that gives a quick visualization of whether sufficient people have yet signed up for 
+an event to meet its minimum. Others remain in the "future work" category, like incorporating the Google maps API.
+
+We thought we would be able to have users log in, but soon realized that tracking sessions and pulling user information from these
+login sessions was beyond what we would be able to implement within the time frame. In this prototype, users must re-enter their information
+when creating or joining event. In future, if logged in, this manual re-entry of user data will not be necessary.
