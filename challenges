@@ -24,3 +24,7 @@ an event to meet its minimum. Others remain in the "future work" category, like 
 We thought we would be able to have users log in, but soon realized that tracking sessions and pulling user information from these
 login sessions was beyond what we would be able to implement within the time frame. In this prototype, users must re-enter their information
 when creating or joining event. In future, if logged in, this manual re-entry of user data will not be necessary.
+
+registration date should always be before date of event.
+don't let user enter events of a date that has passed.
+max groupsize should be more than minimum groupsize.
